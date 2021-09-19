@@ -1,4 +1,4 @@
 # fast readonly substring
-![results](BenchmarkResults.jpg)
+![results](BenchmarkResults.JPG)
 
 
