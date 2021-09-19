@@ -1,2 +1,4 @@
-# ZeroSpaceAllocationStringCreation
-Zero space allocation for a substring
+# fast readonly substring
+![results](BenchmarkResults.jpg)
+
+
